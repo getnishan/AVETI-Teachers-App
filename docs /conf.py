@@ -1,4 +1,4 @@
-project = 'Aveti Teachers App documentation'
+project = 'Aveti Teachers App Documentation'
 author = 'Nishan'
 release = '0.1'
 
