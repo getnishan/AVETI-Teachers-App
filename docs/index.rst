@@ -1,4 +1,4 @@
-Welcome to Official documentation for the Aveti Teachers App
+Welcome to Official Documentation for the Aveti Teachers App
 ==================
 
 Official documentation for the Aveti Teachers App, including guides, feature explanations, and workflows for teachers and administrators.
